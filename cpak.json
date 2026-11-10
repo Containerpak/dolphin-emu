@@ -4,7 +4,7 @@
   "name": "Dolphin Emulator",
   "description": "Play GameCube and Wii games with Dolphin.",
   "version": "2512",
-  "image": "ghcr.io/containerpak/dolphin-emu@sha256:4503ce0924c02dac31a2ced08775d0c18fc7281095449c2ee8175441ff61465e",
+  "image": "ghcr.io/containerpak/dolphin-emu@sha256:841ff2b9f3daf7e5c1a7c351786b78f5d66ca1c43ba550101a3c6c19fdcbfcb3",
   "binaries": [
     "/usr/games/dolphin-emu"
   ],
